@@ -47,7 +47,7 @@ Moving Average (MA 5, MA 10)
 📄 CSV Dataset
 
 📷 Dashboard Preview
-👉 (Add your dashboard screenshot here)
+👉 https://github.com/Rozeena1609/Stock-Market-Analysis-powerbi/commit/bc299e6c0019195855b28da1f3c326ef5e875f96
 
 ![Dashboard Preview](image-name.png)
 
