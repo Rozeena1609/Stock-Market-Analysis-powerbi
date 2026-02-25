@@ -49,7 +49,6 @@ Moving Average (MA 5, MA 10)
 📷 Dashboard Preview
 👉 https://github.com/Rozeena1609/Stock-Market-Analysis-powerbi/commit/bc299e6c0019195855b28da1f3c326ef5e875f96
 
-![Dashboard Preview](image-name.png)
 
 ✅ Outcome
 ✔ Built an interactive financial analysis dashboard
